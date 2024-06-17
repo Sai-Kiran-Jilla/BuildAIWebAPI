@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vBKWtEkIh3rAYcISgXXYElqoyoOLwCDcZ2m+VMjrgu4=",
+  "Source": "BuildAi.liveAPI",
+  "BasePath": "_content/BuildAi.liveAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

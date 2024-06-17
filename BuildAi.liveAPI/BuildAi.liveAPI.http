@@ -1,0 +1,6 @@
+@BuildAi.liveAPI_HostAddress = http://localhost:5117
+
+GET {{BuildAi.liveAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

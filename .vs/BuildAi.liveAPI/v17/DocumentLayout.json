@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\BuildAi.liveAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|c:\\repos\\buildai.liveapi\\buildai.liveapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|solutionrelative:buildai.liveapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|c:\\repos\\buildai.liveapi\\buildai.liveapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|solutionrelative:buildai.liveapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|c:\\repos\\buildai.liveapi\\buildai.liveapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|solutionrelative:buildai.liveapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|c:\\repos\\buildai.liveapi\\buildai.liveapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|solutionrelative:buildai.liveapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|c:\\repos\\buildai.liveapi\\buildai.liveapi\\buildai.liveapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|solutionrelative:buildai.liveapi\\buildai.liveapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|c:\\repos\\buildai.liveapi\\buildai.liveapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|solutionrelative:buildai.liveapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|c:\\repos\\buildai.liveapi\\buildai.liveapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3C4B63-6D24-4D67-8D68-E1268DD1A644}|BuildAi.liveAPI\\BuildAi.liveAPI.csproj|solutionrelative:buildai.liveapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuildAi.liveAPI.csproj",
+              "DocumentMoniker": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\BuildAi.liveAPI.csproj",
+              "RelativeDocumentMoniker": "BuildAi.liveAPI\\BuildAi.liveAPI.csproj",
+              "ToolTip": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\BuildAi.liveAPI.csproj",
+              "RelativeToolTip": "BuildAi.liveAPI\\BuildAi.liveAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T05:38:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "BuildAi.liveAPI\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "BuildAi.liveAPI\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:00:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BuildAi.liveAPI\\Program.cs",
+              "ToolTip": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Program.cs",
+              "RelativeToolTip": "BuildAi.liveAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:51:44.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "BuildAi.liveAPI\\Startup.cs",
+              "ToolTip": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Startup.cs",
+              "RelativeToolTip": "BuildAi.liveAPI\\Startup.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwBwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:48:21.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BuildAi.liveAPI\\appsettings.json",
+              "ToolTip": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\appsettings.json",
+              "RelativeToolTip": "BuildAi.liveAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T04:46:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "BuildAi.liveAPI\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "BuildAi.liveAPI\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:44:25.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "BuildAi.liveAPI\\Models\\Item.cs",
+              "ToolTip": "C:\\Repos\\BuildAi.liveAPI\\BuildAi.liveAPI\\Models\\Item.cs",
+              "RelativeToolTip": "BuildAi.liveAPI\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:42:43.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
